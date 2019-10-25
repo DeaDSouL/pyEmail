@@ -1,2 +1,2 @@
-# pyEmail
+# pyEmailer
 Simple python email sender
